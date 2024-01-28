@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 web開発と機械学習に興味があります. 現在は深層学習を主に勉強しています.競技プログラミングも細々とやっています.
 
 ## インターン歴
-- 2023-3 ~ 2023-8 株式会社evast インターン（vue.js)
-- 2023-8 ~ 現在　　株式会社THiNGMAjiG インターン(Ruby on rails, js, python)
+- 2023-3 ~ 2023-8  株式会社evast インターン（vue.js)
+- 2023-8 ~ now     株式会社THiNGMAjiG インターン(Ruby on rails, js, python)
 
 
 ## 個人開発
