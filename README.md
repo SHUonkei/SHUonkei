@@ -16,4 +16,5 @@ web開発と機械学習に興味があります. 現在は深層学習を主に
 - 2023-8 ~ 現在　　株式会社THiNGMAjiG インターン(Ruby on rails, js, python)
 
 
-##　個人開発
+## 個人開発
+- 2023-11 [Ted-quiz](https://speakerdeck.com/exzrgs/ted-quiz "紹介スライドレポジトリはピン止めしてあります.") 
