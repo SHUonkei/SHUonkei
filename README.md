@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 慶應義塾大学情報工学科在学中
 
 ## 興味
-web開発と機械学習に興味があります. 現在は深層学習を主に勉強しています.Kaggleと競技プログラミングも細々とやっています. atcoder:ratehighest 1115, codeforces:緑.
+web開発と機械学習に興味があります. 現在は深層学習を主に勉強しています.趣味でKaggleと競技プログラミングをやっています. atcoder:ratehighest 1115, codeforces:緑.
 
 ## インターン歴
 - 2023-3 ~ 2023-8  株式会社evast インターン（vue.js, postgress)
