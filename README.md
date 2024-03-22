@@ -16,4 +16,5 @@ web開発と機械学習に興味があります. 現在は深層学習を主に
 
 
 ## 個人開発
+- 2023-8  [Stream-snapper](https://docs.google.com/presentation/d/1-x-z-yi8CvRIRrpr-fjHsA1q0IKzUEhoZpdMp1ldboE/edit#slide=id.g26c375119a1_0_0)
 - 2023-11 [Ted-quiz](https://speakerdeck.com/exzrgs/ted-quiz "紹介スライドレポジトリはピン止めしてあります.") 
