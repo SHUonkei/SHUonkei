@@ -12,7 +12,7 @@ web開発と機械学習に興味があります. 現在は深層学習を主に
 
 ## インターン歴
 - 2023-3 ~ 2023-8  株式会社evast インターン（vue.js, postgreSQL)
-- 2023-8 ~ now     株式会社THiNGMAjiG インターン(Ruby on rails, js, python)
+- 2023-8 ~ now     株式会社taiziii(旧THiNGMAjiG) インターン(Ruby on rails, js, python)
 
 
 ## 個人開発
