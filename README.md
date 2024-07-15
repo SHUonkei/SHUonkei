@@ -1,5 +1,4 @@
-## インターン歴
-- 2023-3 ~ 2023-8  株式会社evast インターン（vue.js, postgreSQL)
+## インターン
 - 2023-8 ~ now     株式会社taiziii(旧THiNGMAjiG) インターン(Ruby on rails, js, python)
 
 
